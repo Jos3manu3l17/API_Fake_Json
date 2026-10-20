@@ -1,0 +1,16 @@
+{
+  "name": "api_fake",
+  "version": "1.0.0",
+  "description": "Este proyecto permite crear una API REST falsa utilizando **JSON Server**, una herramienta de Node.js que transforma un archivo JSON en una API que podemos consultar desde el navegador o consumir desde una aplicación con JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
